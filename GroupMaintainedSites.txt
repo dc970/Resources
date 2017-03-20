@@ -1,0 +1,10 @@
+####
+#Title: Group Maintained Sites
+#Authors: EulaSploit
+#Revision Date: 2017-03-19
+#Notes: 
+####
+https://dc970.org/wp-login.php
+https://noco2600.org/wp-admin/
+https://github.com/dc970/
+https://dc970.slack.com/
